@@ -29,7 +29,8 @@ This project helps reinforce SwiftUI concepts like:
 
 ## 📸 Screenshots
 
-*(Insert screenshots here of the UI on iPhone Simulator or Device)*
+![Group@3x](https://github.com/user-attachments/assets/2fd5990e-2a72-410c-abac-df7142a26bed)
+
 
 ---
 
@@ -46,7 +47,7 @@ This project helps reinforce SwiftUI concepts like:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/we-split.git
+   git clone https://github.com/Sivaakaruturi/we-split.git
    cd we-split
 
 
@@ -64,14 +65,3 @@ Karuturi Siva Rama Krishna
 
 Feel free to connect or contribute!
 
----
-
-### ✅ How to Use This
-
-- Copy the full script above into your `README.md`.
-- Replace:
-  - `yourusername` in the GitHub link
-  - Add screenshots if you have them
-- You can include a link to your `.ipa` or TestFlight if you're publishing it for others to try.
-
-Let me know if you want me to generate the LICENSE file or help with screenshots or TestFlight setup too.
